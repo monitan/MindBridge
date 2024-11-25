@@ -1,6 +1,6 @@
 # MindBridge: Your Personal Mental Wellness Companion  
 
-MindBridge is an intelligent, empathetic mental health support assistant built on the Shusheng Large Language Model. Designed to help users manage stress, anxiety, and emotional challenges, MindBridge-AI offers meaningful conversations, emotional analysis, and mindfulness practices to promote mental well-being.
+MindBridge is an intelligent, empathetic mental health support assistant built on the Shusheng Large Language Model. Designed to help users manage stress, anxiety, and emotional challenges, MindBridge offers meaningful conversations, emotional analysis, and mindfulness practices to promote mental well-being.
 
 ## 🌟 **Key Features**  
 1. **Emotion Detection and Feedback**  
